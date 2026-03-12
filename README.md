@@ -19,6 +19,8 @@ Robbyant Team
 
 </div>
 
+>To run the gradio app (feature of this repo) follow the instructions of [RUN.md](RUN.md)
+
 -----
 
 We are excited to introduce **LingBot-World**, an open-sourced world simulator stemming from video generation. Positioned
